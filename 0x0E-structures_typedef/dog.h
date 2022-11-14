@@ -4,6 +4,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
+ *dog_t - new type for type struct dog
+ *
+ *Definition: type
+ */
+typedef struct dog dog_t;
+
+/**
  *struct dog - definition of dog
  *@name: name of dog
  *@age: age of dog
