@@ -2,7 +2,7 @@
 #define _DOG_H_
 
 #include <stdio.h>
-
+#include <stdlib.h>
 /**
  *struct dog - definition of dog
  *@name: name of dog
